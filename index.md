@@ -12,3 +12,13 @@ This is a headers test to see what each one looks like!
 ![Image of Stormtrooper GitHub Cat](https://octodex.github.com/images/stormtroopocat.png)
 
 I added images of the different GitHub Cats!
+
+``` Javascript
+var myVar = "Hello World!";
+```
+
+``` SQL
+SELECT * FROM test;
+```
+
+I added coding blocks to give example code
